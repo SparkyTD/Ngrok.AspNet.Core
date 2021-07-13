@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ngrok.AspNet.Core", "Ngrok.AspNet.Core\Ngrok.AspNet.Core.csproj", "{A1EC5806-1552-48CD-8BBD-5C4EADBAA87F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ngrok.AspNet.Core.Sample", "Ngrok.AspNet.Core.Sample\Ngrok.AspNet.Core.Sample.csproj", "{16C40455-F906-482C-A965-FB3AB1353964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EC5806-1552-48CD-8BBD-5C4EADBAA87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EC5806-1552-48CD-8BBD-5C4EADBAA87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EC5806-1552-48CD-8BBD-5C4EADBAA87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EC5806-1552-48CD-8BBD-5C4EADBAA87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C40455-F906-482C-A965-FB3AB1353964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C40455-F906-482C-A965-FB3AB1353964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C40455-F906-482C-A965-FB3AB1353964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C40455-F906-482C-A965-FB3AB1353964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
